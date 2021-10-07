@@ -1,0 +1,16 @@
+{
+    "readFrom":{
+        "value": 1,
+        "inputFileName": "the_game_of_life.xlsx",
+        "sheetName": "Glider"
+    },
+    "goForever": 0,
+    "delay": 0,
+    "printAll": 1,
+    "disableMaxUpperLimit": 1,
+    "overflow": 200,
+    "verbose": 0,
+    "confirmStart": 0,
+    "disableOverflow": 0
+}
+
